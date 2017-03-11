@@ -1,0 +1,15 @@
+{
+  "name": "egret-webpack-typescript",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "webpack-dev-server --inline --open",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "source-map-loader": "^0.2.0",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
